@@ -1,2 +1,2 @@
 # Trilly
-first git hub
+first repository
